@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+T:\19436631_nguyenLamNhatMinh_ThucHanhKienTruc\.metadata\.plugins\org.eclipse.jdt.core
+309254877.index
+3163247131.index
+2276536171.index
+2486993174.index
+994243326.index
